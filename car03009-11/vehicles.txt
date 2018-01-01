@@ -1,0 +1,21 @@
+T  XIJ487  6418  Acme Moving Co.  Mack  2000  1997  750.00  Orange  12.5  3
+M  451942  3298  Fast Loan Co.  Honda  C450  1995  Sandy Garcia  False  380.5
+S  1ARB699  3841  Bank of America  Chrysler  New Yorker  2002  Bill Jones  False  4
+T  387AMZ  6811  Browning Truck Co.  Peterbilt  M-2  1996  285.65  Orange  14.4  5
+V  FUN4ALL  9000  Jerry Rivers  Ford  Aerostar  1993  Martha Rivers  True
+B  64141  2551  Greyhound Lines  Nissan  Tiger  1995  351.00  San Diego  44  1150000.00
+M  2FAST  8888  Bank of Hong Kong  Yamaha  Radian  1999  Ning Wan  False  405.5
+X  7ATL494  3720  City Cab Company  Ford  Cab-4  1991  521.75  San Bernardino  1120000.00
+P  1R6889  3501  Zapatista Inc.  Dodge  Ram-250  1998  Emiliano Zapata  True  3275.6
+V  4AVL9UV  8999  Sharon Stone  Toyota  SR5  1999  Sharon Stone  False
+P  ILUVADA  0609  Gonzaga Finance Co.  Toyota  Tacoma  1992  Roland Gonzaga  True  2374.6
+S  486999R  9505  Larry Caye  Chevrolet  Impala  1999  Larry Caye  False  4
+X  T887141  9906  Green Cab Company  Dodge  Mover  1988  385.95  Orange  125500.75
+P  GOPHER  2990  Nevada State Bank  Mazda  B2000  1992  Joe McGrady  False  3005.9
+T  85ARS  5160  Forbes Truck Lines  Isuzu  X9000  1997  849.75  Riverside  11.7  5
+T  TLK295  8183  Southern Nevada Movers, Inc.  Mitsubishi  Dragon-2  2000  1005.75  Clark  14.6  7
+B  8TXR551  7717  Yosemite Touring Company  Isuzu  R-40  1997  310.50  Placer  42  245710.00
+V  ROADKIL  0000  Jack Sprat  Jeep  Cherokee  1996  Jack Sprat  False
+S  Liberty  2000  Harry Browne  Cadillac  Seville  1998  Harry Brown  True  4
+S  MONEY  8989  Bill Gates  Rolls Royce  Silver Cloud  1993  Bill Gates  True  6
+M  84849  5000  Christie Brinkley  Honda  Elite  2002  Christie Brinkley  True  285.5
